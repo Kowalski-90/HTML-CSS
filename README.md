@@ -3,4 +3,4 @@ Curso de HTML5 e CSS3 do CursoemVideo
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
 
-<a href="https://https://kowalski-90.github.io/HTML-CSS/d010/android.html">Executar o desafio 10</a>
+<a href="https://kowalski-90.github.io/HTML-CSS/d010/android.html">Executar o desafio 10</a>
